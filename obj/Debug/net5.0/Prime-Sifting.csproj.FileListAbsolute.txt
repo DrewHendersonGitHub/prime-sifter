@@ -1,0 +1,16 @@
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\bin\Debug\net5.0\Prime-Sifting.exe
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\bin\Debug\net5.0\Prime-Sifting.deps.json
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\bin\Debug\net5.0\Prime-Sifting.runtimeconfig.json
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\bin\Debug\net5.0\Prime-Sifting.runtimeconfig.dev.json
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\bin\Debug\net5.0\Prime-Sifting.dll
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\bin\Debug\net5.0\ref\Prime-Sifting.dll
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\bin\Debug\net5.0\Prime-Sifting.pdb
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\obj\Debug\net5.0\Prime-Sifting.csproj.AssemblyReference.cache
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\obj\Debug\net5.0\Prime-Sifting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\obj\Debug\net5.0\Prime-Sifting.AssemblyInfoInputs.cache
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\obj\Debug\net5.0\Prime-Sifting.AssemblyInfo.cs
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\obj\Debug\net5.0\Prime-Sifting.csproj.CoreCompileInputs.cache
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\obj\Debug\net5.0\Prime-Sifting.dll
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\obj\Debug\net5.0\ref\Prime-Sifting.dll
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\obj\Debug\net5.0\Prime-Sifting.pdb
+C:\Users\DrewH\Desktop\Epicodus\prime-sifting\obj\Debug\net5.0\Prime-Sifting.genruntimeconfig.cache
